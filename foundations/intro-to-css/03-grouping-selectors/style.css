@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.needy,
+.super-needy {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.needy {
+    background-color: black;
+    color: white;
+}
+
+.super-needy {
+    background-color: yellow;
+}
